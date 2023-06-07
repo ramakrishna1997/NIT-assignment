@@ -1,0 +1,74 @@
+										=======>KILLI RAMA KRISHNA<=======
+
+Answers:
+======================
+1) b) lower case
+except True and Flase and remaining all in lower case
+
+2) a)Indentation
+
+3) b)//
+
+4) b)print()
+
+5) d) 56.24
+
+6) b)-
+explination:
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+Cell In[11], line 1
+----> 1 a-'2'
+
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+
+7) c)list1.append(5)
+Explination:
+append keyword is used to add elements on the list
+
+8) d) (1,2,3)
+Explination:
+Tuples are declread in the perenthines
+
+9) a).val
+Explination:
+.val is not a keyword 
+
+
+10) a).a**b
+Explination:
+a**b means '**' in python called as square a**2
+
+11) c).Infile=open(''d:\java.txt'','r')
+Explination:
+open is function which used to open any file like .txt file and .py, etc.file=" " is path of the  file and 'r' is the read of the file
+.Infile is a variable
+
+12) d) 6.0
+Explination:
+math is labiry to perform the mathematically operations like add,sub,multiply,division and so,etc
+Here sqrt means the square root of the number
+
+13) c)0 1 2 0
+
+14) b) pqrs
+
+15) d) indentationError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
