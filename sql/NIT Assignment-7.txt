@@ -1,0 +1,4 @@
+1) what is a different between RDBMS and DBMS?
+2) Take Real time example explain the concepts of joins?
+3) which is advantages sub queries or joins?
+4) Perfomance waise in project what do you suggest for reteving of the data from 10 to 12 tables which are inter connect with constraints?
